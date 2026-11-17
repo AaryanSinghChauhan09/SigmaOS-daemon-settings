@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-daemon-settings"
-description = "SigmaOS subsystem component for daemon-settings"
+description = "Settings daemon (fonts, theme, hotkeys)"
 version = "0.1.0"
 tier = 2
 
